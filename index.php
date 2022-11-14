@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <link href="https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700" rel="stylesheet">
-    <link rel="stylesheet" href="recursos/css/estilo.css">
+    <link rel="stylesheet" href="assets/css/estilo.css">
     <title>Curso PHP</title>
 </head>
 <body>
@@ -14,6 +14,16 @@
     <main class="principal">
         <div class="conteudo">
             <nav class="modulos">
+            <div class="modulo laranja">
+                    <h3>5. Array</h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=basico">
+                                Array
+                            </a>
+                        </li>
+                    </ul>
+                </div>
                 <div class="modulo roxo">
                     <h3>4. Controle</h3>
                     <ul>
